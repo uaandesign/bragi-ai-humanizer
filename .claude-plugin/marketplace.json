@@ -1,0 +1,24 @@
+{
+  "name": "bragi",
+  "owner": {
+    "name": "uaandesign",
+    "url": "https://github.com/uaandesign"
+  },
+  "metadata": {
+    "description": "Marketplace hosting the Bragi AI-text-humanizing skill."
+  },
+  "plugins": [
+    {
+      "name": "bragi",
+      "description": "Bragi（布拉吉）— 把一眼假的 AI 草稿改成对的人爱看、内行挑不出毛病的稿子。三层：去 AI 味（破绽清单铲排比/空心大词/套话）、对准角色（动笔前先问给谁看，按业务/设计/研发 leader 等重排重点）、逼出垂类纵深（标泛化句→向你要真料→给不了就标缺料，绝不编造深度）。附 ai-tells-lint 量化 AI 味降幅。",
+      "version": "0.1.0",
+      "author": {
+        "name": "uaandesign",
+        "url": "https://github.com/uaandesign"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/uaandesign/bragi"
+    }
+  ]
+}
